@@ -1,0 +1,88 @@
+.head p {
+    font-size: 30px;
+    font-weight: 400;
+}
+.head {
+    margin: 26px 0;
+}
+.title1 {
+    font-size: 30px;
+    font-weight: 400;
+    margin-top: 18px;
+    margin-left: 35px;
+}
+.route {
+    font-size: 15px;
+    margin-top: 25px;
+    margin-left: 40px;
+    margin-bottom: 50px;
+}
+span {
+    color: #cd3a0e;
+}
+.container-charts {
+    align-items: center;
+    display: flex;
+    margin-top: 43px;
+    justify-content: space-between;
+    height: auto;
+    background: white;
+    padding: 0 20vh;
+    box-shadow: 2px 2px rgb(197, 197, 197);
+}
+@media (min-width: 1200px) {
+    .container {
+        max-width: 100%;
+    }
+}
+
+/* bio */
+
+.container-aboutme{
+    border: 1px solid  #0000004a;
+    width: 100vh;
+    border-radius: 10px;
+    background: aliceblue;
+    margin: 0 auto;
+}
+.name-con {
+    display: flex;
+    align-items: flex-end;
+}
+.title2 {
+    height: 100%;
+    font-size: 18px;
+}
+.title{
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 18px;
+    margin-left: 35px;
+    width:37vh;
+    color: #000000a1;
+}
+img {
+    vertical-align: middle;
+    border-style: none;
+    border-radius: 100%;
+}
+.header {
+    font-size: 30px;
+    letter-spacing: 5px;
+    margin: 36px 25px;
+    font-weight: 500;
+}
+.Name {
+    margin-left: 82px;
+    font-size: 30px;
+    letter-spacing: 6px;
+    font-family: inherit;
+    font-weight: 100;
+}
+.container-prrofil {
+    display: flex;
+    align-items: center;
+}
+.profil {
+    margin: 0 20px;
+}
