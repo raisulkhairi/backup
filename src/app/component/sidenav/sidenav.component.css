@@ -15,14 +15,14 @@ mat-sidenav-container{
  .menu fa{
      height: 30px;
  }
- .title{
+ .title-sidenav{
      display: flex;
      justify-content:space-between;
      align-items: center;
      width: 153px;
      margin: auto;
  }
- .name {
+ .name-sidenav {
      height: 18px;
  }
  p {

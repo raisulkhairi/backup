@@ -1,26 +1,26 @@
-table{
+table {
     margin-top: 50px;
     overflow: none;
     margin: 0 auto;
 }
-table th{
-    border-bottom: 1px solid black;
-    padding: 0 120px;
+table th {
+    /* border-bottom: 1px solid black; */
+    padding: 0 92px;
 }
-.container-table{
-    width: 100%; 
+.container-table-grade {
+    width: 100%;
     text-align: center;
     justify-content: center;
+    margin-top: 46px;
 }
 
-.title {
+.title-grade {
     font-size: 30px;
     font-weight: 500;
     margin-top: 18px;
     margin-left: 35px;
-
 }
-.route {
+.route-grade {
     font-size: 15px;
     margin-top: 25px;
     margin-left: 40px;
@@ -70,4 +70,20 @@ img {
     height: 70px;
     width: 70px;
     border-radius: 100%;
+}
+.container-grade {
+    border: 1px solid #0000004f;
+    height: 70vh;
+    border-radius: 10px;
+    background: aliceblue;
+}
+td{
+    color: #000000ab;
+    letter-spacing: 2px;
+}
+.head-grade{
+    margin: 26px 0;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 2px;
 }

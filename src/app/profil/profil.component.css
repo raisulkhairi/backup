@@ -2,16 +2,20 @@
     font-size: 30px;
     font-weight: 400;
 }
-.head {
+.head-profil {
     margin: 26px 0;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 2px;
 }
-.title1 {
+
+.title-profil {
     font-size: 30px;
     font-weight: 400;
     margin-top: 18px;
     margin-left: 35px;
 }
-.route {
+.route-profil {
     font-size: 15px;
     margin-top: 25px;
     margin-left: 40px;
@@ -38,8 +42,8 @@ span {
 
 /* bio */
 
-.container-aboutme{
-    border: 1px solid  #0000004a;
+.container-profil {
+    border: 1px solid #0000004a;
     width: 100vh;
     border-radius: 10px;
     background: aliceblue;
@@ -53,20 +57,22 @@ span {
     height: 100%;
     font-size: 18px;
 }
-.title{
+.title {
     font-size: 18px;
     font-weight: 400;
     margin-top: 18px;
     margin-left: 35px;
-    width:37vh;
+    width: 37vh;
     color: #000000a1;
 }
 img {
     vertical-align: middle;
     border-style: none;
     border-radius: 100%;
+    width: 190px;
+    height: 190px;
 }
-.header {
+.header-profil {
     font-size: 30px;
     letter-spacing: 5px;
     margin: 36px 25px;
@@ -82,7 +88,9 @@ img {
 .container-prrofil {
     display: flex;
     align-items: center;
+    margin-bottom: 30px;
 }
-.profil {
-    margin: 0 20px;
+
+.profil-photo {
+    margin-left: 55px;
 }

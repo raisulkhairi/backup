@@ -5,13 +5,13 @@
 .head {
     margin: 26px 0;
 }
-.title {
+.title-dashboard {
     font-size: 30px;
     font-weight: 400;
     margin-top: 18px;
     margin-left: 35px;
 }
-.route {
+.route-dashboard {
     font-size: 15px;
     margin-top: 25px;
     margin-left: 40px;
@@ -30,8 +30,8 @@ span {
     padding: 0 20vh;
     box-shadow: 2px 2px rgb(197, 197, 197);
 }
-@media (min-width: 1200px) {
+/* @media (min-width: 1200px) {
     .container {
         max-width: 100%;
     }
-}
+} */

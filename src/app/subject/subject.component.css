@@ -4,23 +4,24 @@ table{
     margin: 0 auto;
 }
 table th{
-    border-bottom: 1px solid black;
-    padding: 0 120px;
+    /* border-bottom: 1px solid black; */
+    padding: 0 92px;
 }
 .container-table{
     width: 100%; 
     text-align: center;
     justify-content: center;
+    margin-top: 46px;
 }
 
-.title {
+.title-subject {
     font-size: 30px;
     font-weight: 500;
     margin-top: 18px;
     margin-left: 35px;
 
 }
-.route {
+.route-subject {
     font-size: 15px;
     margin-top: 25px;
     margin-left: 40px;
@@ -70,4 +71,21 @@ img {
     height: 70px;
     width: 70px;
     border-radius: 100%;
+}
+.container-subject {
+    border: 1px solid #0000004f;
+    height: 70vh;
+    border-radius: 10px;
+    background: aliceblue;
+}
+td{
+    color: #000000ab;
+    letter-spacing: 2px;
+}
+.head-subject{
+    margin: 26px 0;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 2px;
+
 }
